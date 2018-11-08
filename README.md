@@ -1,5 +1,5 @@
 # ExampleArchitecture
-- Simple .Net core architecutre template that use CQRS for data flow.
+- Simple .Net Core architecutre template that use CQRS for data flow.
 
 # Example.Data 
 - Stores EntityFramework DbContext and repositories
