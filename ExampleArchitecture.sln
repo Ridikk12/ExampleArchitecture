@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleArchitecture", "ExampleArchitecture\ExampleArchitecture.csproj", "{8A577905-9992-4ABE-9BDD-3FD7A52B1B9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example.ArchitectureAPI", "Example.ArchitectureAPI\Example.ArchitectureAPI.csproj", "{8A577905-9992-4ABE-9BDD-3FD7A52B1B9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example.Domain", "ExampleDomain\Example.Domain.csproj", "{4905C587-C4B5-4AC5-9845-286B49F83165}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example.Domain", "Example.Domain\Example.Domain.csproj", "{4905C587-C4B5-4AC5-9845-286B49F83165}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example.Application", "Application\Example.Application.csproj", "{E906625F-5B6C-4CDD-80B5-9E4A0014891A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example.Application", "Example.Application\Example.Application.csproj", "{E906625F-5B6C-4CDD-80B5-9E4A0014891A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example.Data", "ExampleData\Example.Data.csproj", "{5B091899-5B06-46CA-B5BB-2B11D64CF45D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example.Data", "Example.Data\Example.Data.csproj", "{5B091899-5B06-46CA-B5BB-2B11D64CF45D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
