@@ -9,4 +9,4 @@
 # Example.Application 
 - Stores Command and Query Handlers 
 # Example.ArchitectureAPI
--.Net Core project that is used as wepAPI for clients
+-.Net Core project that is used as WebAPI for clients
